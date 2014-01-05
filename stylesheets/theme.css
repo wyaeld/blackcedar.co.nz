@@ -582,6 +582,17 @@ body {
   font-style: normal;
 }
 
+/* Overrides */
+#masthead .brand a {
+  color: #222;
+  text-decoration: none;
+}
+#masthead a:hover {
+  color: #222;
+  text-decoration: none;
+}
+
+
 #masthead .navbar-inverse .brand a {
   color: white;
 }
