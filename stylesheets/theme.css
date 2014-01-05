@@ -3011,9 +3011,6 @@ ul.inline li {
   -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader( enabled='true', src='images/assets/landscapes/landscape-5-2000x1200.jpg',sizingMethod='scale')";
 }
 
-
-div.centered {
-  margin-right: auto;
-  margin-left: auto;
-  display: inline;
+.domain::before {
+  content: "\0040";    /* Unicode character for @ symbol */
 }
