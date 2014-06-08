@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/wyaeld
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blackcedar.co.nz
+  * I am wyaeld (https://keybase.io/wyaeld) on keybase.
+  * I have a public key with fingerprint 923F AAAD 9255 3CD7 7DCA  9AA5 C58F 04F8 AE5A 814B
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.4"
+        },
+        "key": {
+            "fingerprint": "923faaad92553cd77dca9aa5c58f04f8ae5a814b",
+            "host": "keybase.io",
+            "key_id": "C58F04F8AE5A814B",
+            "uid": "072cc08cca6c851a4b02816fff368500",
+            "username": "wyaeld"
+        },
+        "merkle_root": {
+            "ctime": 1402217828,
+            "hash": "31978e55b78eb1ac5e185afcd4bef2bdd404eb51793deb67ea5a552baa38babdb9873e221ea88c952c3d1cece4779dde3e44953fe85a000d49a7631e582b8e71",
+            "seqno": 15360
+        },
+        "service": {
+            "hostname": "blackcedar.co.nz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402218017,
+    "expire_in": 157680000,
+    "prev": "b5f26f79debdf06b7424d4ed945e35edf11932cc61c7c6d9d8619c03d18e9dd0",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVUn1QFkUcfoGEUdQ0FSlJ4YzGMXy9r73bw6/hQ5RwyhREw8K93T08X7h7vfeF
+BCRsZBAUBieVciDBHLWggRAyHWCwwSwmGpPK6UPHRtTxIzVoMkvQ7hia8p+d3f09
+v2ef5/nt7glBrsCAiM7mzVGeg30BX91QXav3Ph9VyKgmyWdiCxmcrVPD7+wMlEOZ
+WMZD81Xko27djDRMQt2bfJGjmBgmj1o+3TRsFOsW3SJTFOPAnWZNN7Ko5bV0h4tR
+eEFDCBGFB0DARJYJRgpCAAOosaIGEQUIcqJqU240ff7HXmVGODN1Yt8mAJjEikkw
+bimIs/Hxdi13pMDKPMYsxBhJGAIOiSrLQ07SNE2QIGBZB+ij1qilN/IRzSaO2hxq
+ebJppmWaI5axX3cAnMjyPCdDHtp6kG+j3SJwigwpAKq9qhzCgHIQIA0TUaUarxIi
+siJVAScrAqGqJFMEEAC8ipAAVaQSVYGyQG1WiiDECuCxQDhMMRVlWSGEClQUFSBo
+1GZlWZaICpIlgaMA8iqkMmcb8NHNhmmLA4LEFjlHK0/H1JHtZDZqTc1G2IMpQZYb
+m26jwO7zWqbfxGa2Xd3o93tjHd/+fO9IEFRtyhwlylR1g9hT+/9YORv6WCaQ5eQY
+hm7x6hbN1B0EkCVoC2add2ieowBovKTZpqhKNFZSZZEXiUiJIgIqAEo0jlMEe1oS
+h2UsEYVAiVMwa8cBqZ0E+59TwdaJsmxKn55lIH+uRZmi8sCIJ1wBga7gMYHOv3WN
+Gzvp38/ctefJR/q8++N3VMRVHjxei0HC8q7ZdeUXg6we/8RlNQMzpOr3Ey+fn1La
+PjusrOkLb3JJTXjCgrXrC95JqzQONLRULT695NxvXVz9oQ3gj6oV81bWvb5ozUDx
+pI5Q1XAnaXNI7slm+eKHqHroYWvqtbWew1HBw6ocHTLUeOfeyqrSrb5oCseUZJ3q
+rA4zLixqL7q2rqV42N/rujIlauz+bZ39zdcLPM1lD9OMVZ2rsD/j9tML+chPdtZG
+JP84fX2u3HGo+uKMHcmNs26WXE7o2f5MbemZ4BM3QnsTmeTuiHp5W/WCQ7/UFIfN
+LE5r+Xj+n+f2rjlatqU0HM8MPV//7tHVPfdvp+wNX3z/RNXKTW39pHHDpWcb6rOr
+Nq0IKyiYtuunrlWvvLbiqUcV+yeEfJnRO3ffm7fkU6ubLiQyx1wx8VeUWy/VTL4w
++POZbx7sq4tbCBbm029rrv7ecXzg2NUH3kgxYF3NB3nRQ2Zqy5G+H8o/2wM+P1s4
+a/Oy6O/aOkKWvjCV9PvbttePW1KHPt294Gzi6dQcGFc2/pzV/fWcuX+/Wlh58mjQ
+W/fGJQRJ8XUn4d3hweuJg5UdL793/nBG49v5zMS/Uvp6J0vtbXfpi1tvtTakZJGP
+0qcX3AxvCKmtyIknz+2aPG1qjNp/hHyf1Lf+Unj34PI73vkh1xsOR1UMkPRfWy8F
+zq/tOZDuGZM+qTvlHw==
+=D5ye
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wyaeld
+
+==================================================================
